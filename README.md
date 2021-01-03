@@ -1,5 +1,4 @@
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp7.hiclipart.com%2Fpreview%2F5%2F917%2F209%2Fweb-development-computer-icons-computer-programming-programmer-html-firm.jpg&f=1&nofb=1" width="300" align="right">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp7.hiclipart.com%2Fpreview%2F5%2F917%2F209%2Fweb-development-computer-icons-computer-programming-programmer-html-firm.jpg" width="300" align="right">
 
 ### How are you World?
 
@@ -7,7 +6,7 @@
    <br>
     Olá, me chamo <strong>Daví Evangelista Silva</strong>
    <br>
-   E eu sou um<strong>Web Developer</strong>
+   E eu sou um <strong>Web Developer</strong>
    <br>
    Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e também sou técnico em mecatrônica pela ETEC Martin Luther King.
    <br>
@@ -39,8 +38,8 @@
 
 ### ⚡ Me adicione nas redes sociais ou chame para realizar um projeto, seria uma honra! ⚡
 <p align="left">
-  <a href="mailto:davievsilva@hotmail.com" alt="outlook">
 
+  <a href="mailto:davievsilva@hotmail.com" alt="outlook">
   <img src="https://img.shields.io/badge/-Outlook-blue" /></a>
 
   <a href="https://www.linkedin.com/in/davi-e-silva/" alt="Linkedin">
@@ -49,6 +48,4 @@
   <a href="https://api.whatsapp.com/send?phone=5511932665060&text=Olá%20Daví,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55119326650608&text=Olá%20Daví,%20tudo%20bem?"/></a>
 
-
 </p> 
-
