@@ -1,4 +1,4 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp7.hiclipart.com%2Fpreview%2F5%2F917%2F209%2Fweb-development-computer-icons-computer-programming-programmer-html-firm.jpg" width="300" align="right">
+<img src="https://erpinnews.com/wp-content/uploads/2018/09/web-application-technologies.png" width="300" align="right">
 
 ### How are you World?
 
