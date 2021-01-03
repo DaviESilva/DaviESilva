@@ -1,4 +1,4 @@
-<img src="https://erpinnews.com/wp-content/uploads/2018/09/web-application-technologies.png" width="300" align="right">
+<img src="web-application-technologies.png" width="300" align="right">
 
 ### How are you World?
 
