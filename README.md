@@ -6,7 +6,7 @@
    <br>
     Olá, me chamo <strong>Daví Evangelista Silva</strong>
    <br>
-   E eu sou um <strong>Web Developer</strong>
+   E eu sou um <strong>jAVA Full Stack Developer</strong>
    <br>
    Estou cursando um MBA em segurança da Informação no momento com previsão de conclusão para 12/2021
    Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e também sou técnico em mecatrônica pela ETEC Martin Luther King.
